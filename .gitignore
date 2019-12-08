@@ -1,0 +1,10 @@
+# Jetbrains IntelliJ IDEA
+/.idea
+
+# ignore project data
+/services/.env
+/services/letsencrypt/nginx/
+/data/incoming-reports
+/data/report-registry
+/data/trigger
+/data/vuln-ignores

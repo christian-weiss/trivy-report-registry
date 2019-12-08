@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "label": "Vuln Check",
+  "message": "7+ days ago",
+  "color": "red"
+}
